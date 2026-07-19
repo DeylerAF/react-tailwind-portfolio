@@ -1,4 +1,5 @@
 import React from "react";
+import Slider from "react-slick";
 import { FaReact } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiLaravel } from "react-icons/si";
 
